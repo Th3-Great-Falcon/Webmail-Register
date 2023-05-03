@@ -1,0 +1,18 @@
+{
+  "chromedriver_path": "C:/chromedriver_win32/chromedriver.exe",
+  "login_url": "https://konto-pocztowe.interia.pl/#/nowe-konto/darmowe",
+  "proxies_file": "C:/Users/Administrator/Desktop/Godaddy/proxies.txt",
+  "user_agents_file": "C:/Users/Administrator/Desktop/Godaddy/user_agents.txt",
+  "delays": {
+    "between_actions": [ 0.5, 1.0 ],
+    "between_keys": [0.1, 0.5],
+    "initial_wait": [ 3, 5 ],
+    "after_submit": [ 2, 4 ]
+  },
+  "first_names": [
+    "John", "Michael", "David", "James", "Paul", "Richard", "Daniel", "William", "Thomas", "Robert"
+  ],
+  "last_names": [
+    "Smith", "Johnson", "Brown", "Williams", "Jones", "Garcia", "Miller", "Davis", "Rodriguez", "Martinez"
+  ]
+}
